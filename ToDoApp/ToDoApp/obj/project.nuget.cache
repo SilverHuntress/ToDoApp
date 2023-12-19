@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IMrjiIBWaEqbLSKeL34i7JvtHkTI8u7c7BVy4vITYRxT7PMfdWbPwgcrbqwKYHYa81Oquczu20K7ixhw3/utKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jesse\\Desktop\\koodi\\todo-app-attejesse-attejesse\\ToDoApp\\ToDoApp\\ToDoApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jesse\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Jesse\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Jesse\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Jesse\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
